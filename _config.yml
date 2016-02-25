@@ -1,0 +1,28 @@
+name: Mike Stacey
+favicon: null
+layout_spectrum: 0.7836465004365891
+typography_spectrum: 0.6594725053291768
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7065762504935265
+  lightness: 0.40118603873997927
+  saturation: 0.03374964674003422
+  rhythmicContrast: 0.5914024955127388
+purpose: []
