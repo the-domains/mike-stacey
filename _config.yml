@@ -1,6 +1,6 @@
 name: Mike Stacey
 favicon: null
-layout_spectrum: 0.76981
+layout_spectrum: 1
 typography_spectrum: 1
 collections:
   - index:
@@ -28,11 +28,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#141414'
-    - '#c0b9a8'
-    - '#9e9788'
-    - '#70685c'
-    - '#322d27'
+    - '#080a07'
+    - '#575e68'
+    - '#4d3806'
+    - '#9f9397'
+    - '#b7b8bd'
   brandStrength: 0
   lightness: 1
   saturation: 1
