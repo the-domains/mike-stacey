@@ -1,5 +1,7 @@
-favicon: null
-name: Mike Stacey
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -10,13 +12,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.76981
 color:
   saturation: 1
   brandStrength: 0
@@ -28,13 +30,11 @@ color:
     - '#70685c'
     - '#322d27'
   lightness: 0
-typography_spectrum: 1
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.76981
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Mike Stacey
+typography_spectrum: 1
