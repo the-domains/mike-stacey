@@ -1,7 +1,7 @@
 name: Mike Stacey
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
+layout_spectrum: 0.7727
+typography_spectrum: 0.38106
 collections:
   - index:
       path: /
